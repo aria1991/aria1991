@@ -12,10 +12,20 @@
 
 - 💬 Ask me about Agile project management ,blockchain & datascience
 
-- 📫 How to reach me: [aria.vahidi2020@gmail.com](aria.vahidi2020@gmail.com)  [@AriaVahidi](https://mobile.twitter.com/AriaVahidi)
+- 📫 How to reach me:
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+
+[aria.vahidi2020@gmail.com](aria.vahidi2020@gmail.com) 
+
+ <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+
+ [@AriaVahidi](https://mobile.twitter.com/AriaVahidi)
 
 - ⚡ Fun fact: Stafford gambit is my favorite opening in chess
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aria1991&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aria1991&hide=issues,prs)
 
 **Languages**
 
@@ -40,6 +50,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aria1991&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aria1991&hide=issues,prs)
+
 
