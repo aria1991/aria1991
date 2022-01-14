@@ -14,13 +14,13 @@
 
 - 📫 How to reach me:
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 
-[aria.vahidi2020@gmail.com](aria.vahidi2020@gmail.com) 
+  [aria.vahidi2020@gmail.com](aria.vahidi2020@gmail.com) 
 
- <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 
- [@AriaVahidi](https://mobile.twitter.com/AriaVahidi)
+  [@AriaVahidi](https://mobile.twitter.com/AriaVahidi)
 
 - ⚡ Fun fact: Stafford gambit is my favorite opening in chess
 
