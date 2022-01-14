@@ -12,6 +12,8 @@
 
 - 💬 Ask me about Agile project management ,blockchain & datascience
 
+- ⚡ Fun fact: Stafford gambit is my favorite opening in chess
+
 - 📫 How to reach me:
 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
@@ -22,7 +24,7 @@
 
   [@AriaVahidi](https://mobile.twitter.com/AriaVahidi)
 
-- ⚡ Fun fact: Stafford gambit is my favorite opening in chess
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aria1991&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aria1991&hide=issues,prs)
