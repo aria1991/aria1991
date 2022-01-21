@@ -2,17 +2,17 @@
 
 
 
-- 🔭 I’m currently working on a solution to improve the way we work and collaborate on projects
+- :top: I’m currently working on a solution to improve the way we work and collaborate on projects
 
-- 🌱 I’m currently learning blockchain layers and how to build a decentralized network
+- :construction: I’m currently learning ***blockchain layers and how to build a decentralized network***
 
-- 👯 I’m looking to collaborate on open source projects on python
+- :rocket: I’m looking to collaborate on **open source projects on python**
 
-- 🤔 I’m looking for help with blockchain development and designing a decentralized database
+- :dart: I’m looking for help with **blockchain development and designing a decentralized database**
 
-- 💬 Ask me about Agile project management ,blockchain & datascience
+- 💬 Ask me about ***Agile project management ,blockchain & datascience***
 
-- ⚡ Fun fact: Stafford gambit is my favorite opening in chess
+- :trollface: **Stafford gambit** is my favorite opening in chess
 
 - 📫 How to reach me:
 
