@@ -1,6 +1,6 @@
 ### Hi there! I'm Aria 👋
 
-
+😄 Pronouns: He/him
 
 - :top: I’m currently working on a solution to improve the way we work and collaborate on projects
 
