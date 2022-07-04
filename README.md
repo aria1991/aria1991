@@ -29,6 +29,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=aria1991&row=1&theme=algolia&title=Repositories,Commits,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+**Prototyping platforms**
+
+![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
 
 **Tools**
 
