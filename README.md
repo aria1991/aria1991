@@ -1,5 +1,6 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%34B5EEFF&size=18&vCenter=true&height=16&lines=Hi+there!+I'm+Aria.)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=%34B5EEFF&size=26&vCenter=true&height=28&lines=Hi+there!+I'm+Aria.)
     
 - 😃 Pronouns: He/Him
 
