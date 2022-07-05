@@ -22,7 +22,6 @@
   [![Twitter](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AriaVahidi)
   
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aria1991&row=1&theme=algolia&title=Repositories,Commits,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 **Prototyping platforms**
@@ -72,3 +71,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+
+
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aria1991&row=1&theme=algolia&title=Repositories,Commits,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
