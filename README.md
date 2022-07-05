@@ -17,13 +17,8 @@
 
 - 📫 How to reach me:
 
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-
-  [aria.vahidi2020@gmail.com](aria.vahidi2020@gmail.com) 
-
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-
-  [@AriaVahidi](https://mobile.twitter.com/AriaVahidi)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aria.vahidi2020@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AriaVahidi)
   
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aria1991&row=1&theme=algolia&title=Repositories,Commits,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
