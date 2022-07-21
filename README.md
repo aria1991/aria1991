@@ -4,7 +4,7 @@
     
 - 😃 Pronouns: He/Him
 
-- :top: I’m currently working on a solution to improve the way we work and collaborate on projects
+- :top: I’m currently working on a Medtech solution 
 
 - :construction: I’m currently learning ***blockchain layers and how to build a decentralized network***
 
