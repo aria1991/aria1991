@@ -20,7 +20,10 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aria.vahidi2020@gmail.com)
   [![Twitter](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AriaVahidi)
+
+***Or You can send me a message*** [here](https://bit.ly/3S8J4Xm)
   
+
 
 
 
