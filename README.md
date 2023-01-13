@@ -58,13 +58,14 @@ In case you'd enjoyed any of my Repos, You can buy me a coffee :
 ![Miro Badge](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff&style=for-the-badge)
 ![Canva Badge](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=for-the-badge)
 ![SonarQube Badge](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=fff&style=for-the-badge)
-
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&labelColor=464646&logoColor=F46800)
 
 **Languages**
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&labelColor=7fd5eb&logoColor=00ADD)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
