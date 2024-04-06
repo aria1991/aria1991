@@ -8,8 +8,6 @@
 
 - :construction: I’m currently learning ***blockchain layers and how to build a decentralized network***
 
-- 📚 I’m working on **BBR** and different network algorithms on **TCP/UDP** IPs , for **V2ray** & **outline** to support freedom movement in Iran 
-
 - :rocket: I’m looking to collaborate on **open source projects on Solidity & Python**
 
 - :dart: I’m looking for help with **blockchain development and designing a decentralized database**
